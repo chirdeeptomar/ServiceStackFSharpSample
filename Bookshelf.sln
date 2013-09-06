@@ -5,11 +5,6 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TypeProviders", "TypeProvid
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WebService", "WebService\WebService.fsproj", "{AE2B225D-E58F-451E-B7DC-4F0162F25119}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{124913CE-7A1A-4321-85A6-7B7D32362AE5}"
-	ProjectSection(SolutionItems) = preProject
-		Bookshelf.sql = Bookshelf.sql
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B613722B-FF86-452D-8DF5-5844BAEE1BC2}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\NuGet.Config = .nuget\NuGet.Config
